@@ -5,4 +5,4 @@
 - **React** 
 - **tailwindcss**
 #
-📫: benpaquindev@gmail.com
+📫benpaquindev@gmail.com
