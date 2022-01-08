@@ -1,8 +1,6 @@
 ### Currently working on https://www.benpaquin.dev/
 #
-### Currently learning: 
-- **Java**: https://replit.com/@BenPaquin
+### Currently focusing on: 
 - **React** 
-- **tailwindcss**
 #
 📫benpaquindev@gmail.com
